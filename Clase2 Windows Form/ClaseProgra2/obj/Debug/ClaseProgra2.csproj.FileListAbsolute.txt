@@ -9,3 +9,6 @@ C:\Users\Juan Martinez\Documents\Visual Studio 2013\Projects\ClaseProgra2\ClaseP
 C:\Users\Juan Martinez\Documents\Visual Studio 2013\Projects\ClaseProgra2\ClaseProgra2\obj\Debug\ClaseProgra2.csproj.GenerateResource.Cache
 C:\Users\Juan Martinez\Documents\Visual Studio 2013\Projects\ClaseProgra2\ClaseProgra2\obj\Debug\ClaseProgra2.exe
 C:\Users\Juan Martinez\Documents\Visual Studio 2013\Projects\ClaseProgra2\ClaseProgra2\obj\Debug\ClaseProgra2.pdb
+C:\Users\Juan Martinez\Documents\Visual Studio 2013\Projects\Clase2 Windows Form\ClaseProgra2\bin\Debug\ClaseProgra2.exe.config
+C:\Users\Juan Martinez\Documents\Visual Studio 2013\Projects\Clase2 Windows Form\ClaseProgra2\obj\Debug\ClaseProgra2.exe
+C:\Users\Juan Martinez\Documents\Visual Studio 2013\Projects\Clase2 Windows Form\ClaseProgra2\obj\Debug\ClaseProgra2.pdb
